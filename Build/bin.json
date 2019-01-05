@@ -1,6 +1,6 @@
 {
-"companyName": "DefaultCompany",
-"productName": "Live2DWeb",
+"companyName": "DenchiSoft",
+"productName": "Live2D Cubism Viewer 3.0",
 "dataUrl": "bin.data.unityweb",
 "wasmCodeUrl": "bin.wasm.code.unityweb",
 "wasmFrameworkUrl": "bin.wasm.framework.unityweb",
@@ -8,6 +8,5 @@
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
 "splashScreenStyle": "Dark",
-"backgroundColor": "#231F20",
-"cacheControl": {"default": "must-revalidate"}
+"backgroundColor": "#231F20"
 }
